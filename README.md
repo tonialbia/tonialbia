@@ -1,7 +1,35 @@
 ## Hello, world! 👋
 
-#### Estou aprendendo:
-<img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=E34F26"/>
+#### 📚 Estou aprendendo:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12"/>
+</div>
+
+#### 📝 Estatísticas:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonialbia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonialbia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+</div>
+
+
+#### 💻 Onde me encontrar:
+<a href="https://www.linkedin.com/in/silvia-tonial/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+<a href="https://github.com/tonialbia">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://codepen.io/tonialbia">
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="CodePen"/>
+</a>
+
 
 
 <!--
