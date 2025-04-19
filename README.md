@@ -9,15 +9,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"/>
     </div>
+    <br>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="300px" align="center">
   </div>
 </section>
 
 <h3 align="center">🔥 Minhas estatísticas:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonialbia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tonialbia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=tonialbia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonialbia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonialbia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=tonialbia&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
 
 <br>
@@ -40,10 +41,10 @@
 
 <br>
 
-<h3 align="center">🏆 GitHub Profile Trophy</h3>
+<h3 align="center">🏆 Troféus do GitHub</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=tonialbia&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=tonialbia&column=8&theme=gruvbox&no-frame=true&no-bg=true"/>
   </a>
 </p>
 
